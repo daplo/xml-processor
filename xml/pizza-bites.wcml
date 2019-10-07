@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><ea:Stories ea:WWVersion="2.0" xmlns:aic="http://ns.adobe.com/AdobeInCopy/2.0" xmlns:ea="urn:SmartConnection_v3"><ea:Story ea:GUID="d1216f7e-53ca-48fd-8d41-355b99f76763" pi0="style=&quot;50&quot; type=&quot;snippet&quot; readerVersion=&quot;6.0&quot; featureSet=&quot;257&quot; product=&quot;10.1(70)&quot; " pi1="SnippetType=&quot;InCopyInterchange&quot;"><ea:StoryInfo><ea:SI_EL>body</ea:SI_EL><ea:SI_Words>118</ea:SI_Words><ea:SI_Chars>664</ea:SI_Chars><ea:SI_Paras>14</ea:SI_Paras><ea:SI_Lines>24</ea:SI_Lines><ea:SI_Snippet>Pizza bites
+Makes 18  Prep 15 mins  
+Cooking 15 mins
+
+2 sheets frozen puff pastry
+¼ cup (70g) pizza sauce
+80g shredded ham
+227g can pineapple chunks 
+in juice, drained
+⅔ cup (70g) shredded pizza cheese
+
+Preheat oven to 200°C. Grease a large baking tr</ea:SI_Snippet><ea:SI_Version>76c614ac-9646-4ed7-8fbc-20ee74a8f86f</ea:SI_Version></ea:StoryInfo><Document DOMVersion="10.1" Self="d">
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Recipe Alternate" Model="Process" Space="CMYK" ColorValue="0 89 26 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Recipe Alternate" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Recipe Primary 2" Model="Process" Space="CMYK" ColorValue="73 7.000000000000001 38 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Recipe Primary 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="15" ConvertToProcess="false" Frequency="85" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="75" ConvertToProcess="false" Frequency="85" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="85" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="85" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal"/>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dotted" Name="$ID/Canned Dotted"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid"/>
+	<FontFamily Self="di38" Name="Minion Pro">
+		<Font Self="di38FontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di38FontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di79" Name="Myriad Pro">
+		<Font Self="di79FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Light Condensed" PostScriptName="MyriadPro-LightCond" Status="Substituted" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Condensed" FullNameNative="Myriad Pro Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Condensed Italic" PostScriptName="MyriadPro-LightCondIt" Status="Substituted" FontStyleName="Light Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Condensed Italic" FullNameNative="Myriad Pro Light Condensed Italic" FontStyleNameNative="Light Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Condensed" PostScriptName="MyriadPro-SemiboldCond" Status="Substituted" FontStyleName="Semibold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Condensed" FullNameNative="Myriad Pro Semibold Condensed" FontStyleNameNative="Semibold Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Condensed Italic" PostScriptName="MyriadPro-SemiboldCondIt" Status="Substituted" FontStyleName="Semibold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Condensed Italic" FullNameNative="Myriad Pro Semibold Condensed Italic" FontStyleNameNative="Semibold Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed" PostScriptName="MyriadPro-BlackCond" Status="Substituted" FontStyleName="Black Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed" FullNameNative="Myriad Pro Black Condensed" FontStyleNameNative="Black Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed Italic" PostScriptName="MyriadPro-BlackCondIt" Status="Substituted" FontStyleName="Black Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed Italic" FullNameNative="Myriad Pro Black Condensed Italic" FontStyleNameNative="Black Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light" FontFamily="Myriad Pro" Name="Myriad Pro Light" PostScriptName="MyriadPro-Light" Status="Substituted" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light" FullNameNative="Myriad Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Italic" PostScriptName="MyriadPro-LightIt" Status="Substituted" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Italic" FullNameNative="Myriad Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black" FontFamily="Myriad Pro" Name="Myriad Pro Black" PostScriptName="MyriadPro-Black" Status="Substituted" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black" FullNameNative="Myriad Pro Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiCondensed" PostScriptName="MyriadPro-LightSemiCn" Status="Substituted" FontStyleName="Light SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiCondensed" FullNameNative="Myriad Pro Light SemiCondensed" FontStyleNameNative="Light SemiCondensed" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiCondensed Italic" PostScriptName="MyriadPro-LightSemiCnIt" Status="Substituted" FontStyleName="Light SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiCondensed Italic" FullNameNative="Myriad Pro Light SemiCondensed Italic" FontStyleNameNative="Light SemiCondensed Italic" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro SemiCondensed" PostScriptName="MyriadPro-SemiCn" Status="Substituted" FontStyleName="SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiCondensed" FullNameNative="Myriad Pro SemiCondensed" FontStyleNameNative="SemiCondensed" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro SemiCondensed Italic" PostScriptName="MyriadPro-SemiCnIt" Status="Substituted" FontStyleName="SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiCondensed Italic" FullNameNative="Myriad Pro SemiCondensed Italic" FontStyleNameNative="SemiCondensed Italic" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiCondensed" PostScriptName="MyriadPro-SemiboldSemiCn" Status="Substituted" FontStyleName="Semibold SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiCondensed" FullNameNative="Myriad Pro Semibold SemiCondensed" FontStyleNameNative="Semibold SemiCondensed" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiCondensed Italic" PostScriptName="MyriadPro-SemiboldSemiCnIt" Status="Substituted" FontStyleName="Semibold SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiCondensed Italic" FullNameNative="Myriad Pro Semibold SemiCondensed Italic" FontStyleNameNative="Semibold SemiCondensed Italic" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiCondensed" PostScriptName="MyriadPro-BoldSemiCn" Status="Substituted" FontStyleName="Bold SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiCondensed" FullNameNative="Myriad Pro Bold SemiCondensed" FontStyleNameNative="Bold SemiCondensed" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiCondensed Italic" PostScriptName="MyriadPro-BoldSemiCnIt" Status="Substituted" FontStyleName="Bold SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiCondensed Italic" FullNameNative="Myriad Pro Bold SemiCondensed Italic" FontStyleNameNative="Bold SemiCondensed Italic" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiCondensed" PostScriptName="MyriadPro-BlackSemiCn" Status="Substituted" FontStyleName="Black SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiCondensed" FullNameNative="Myriad Pro Black SemiCondensed" FontStyleNameNative="Black SemiCondensed" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiCondensed Italic" PostScriptName="MyriadPro-BlackSemiCnIt" Status="Substituted" FontStyleName="Black SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiCondensed Italic" FullNameNative="Myriad Pro Black SemiCondensed Italic" FontStyleNameNative="Black SemiCondensed Italic" PlatformName="$ID/" Version="OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black Italic" PostScriptName="MyriadPro-BlackIt" Status="Substituted" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Italic" FullNameNative="Myriad Pro Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiExtended" PostScriptName="MyriadPro-LightSemiExt" Status="Substituted" FontStyleName="Light SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiExtended" FullNameNative="Myriad Pro Light SemiExtended" FontStyleNameNative="Light SemiExtended" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Light SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiExtended Italic" PostScriptName="MyriadPro-LightSemiExtIt" Status="Substituted" FontStyleName="Light SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiExtended Italic" FullNameNative="Myriad Pro Light SemiExtended Italic" FontStyleNameNative="Light SemiExtended Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro SemiExtended" PostScriptName="MyriadPro-SemiExt" Status="Substituted" FontStyleName="SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiExtended" FullNameNative="Myriad Pro SemiExtended" FontStyleNameNative="SemiExtended" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro SemiExtended Italic" PostScriptName="MyriadPro-SemiExtIt" Status="Substituted" FontStyleName="SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiExtended Italic" FullNameNative="Myriad Pro SemiExtended Italic" FontStyleNameNative="SemiExtended Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiExtended" PostScriptName="MyriadPro-SemiboldSemiExt" Status="Substituted" FontStyleName="Semibold SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiExtended" FullNameNative="Myriad Pro Semibold SemiExtended" FontStyleNameNative="Semibold SemiExtended" PlatformName="$ID/" Version="OTF 1.007;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Semibold SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiExtended Italic" PostScriptName="MyriadPro-SemiboldSemiExtIt" Status="Substituted" FontStyleName="Semibold SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiExtended Italic" FullNameNative="Myriad Pro Semibold SemiExtended Italic" FontStyleNameNative="Semibold SemiExtended Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiExtended" PostScriptName="MyriadPro-BoldSemiExt" Status="Substituted" FontStyleName="Bold SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiExtended" FullNameNative="Myriad Pro Bold SemiExtended" FontStyleNameNative="Bold SemiExtended" PlatformName="$ID/" Version="OTF 1.007;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Bold SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiExtended Italic" PostScriptName="MyriadPro-BoldSemiExtIt" Status="Substituted" FontStyleName="Bold SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiExtended Italic" FullNameNative="Myriad Pro Bold SemiExtended Italic" FontStyleNameNative="Bold SemiExtended Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiExtended" PostScriptName="MyriadPro-BlackSemiExt" Status="Substituted" FontStyleName="Black SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiExtended" FullNameNative="Myriad Pro Black SemiExtended" FontStyleNameNative="Black SemiExtended" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+		<Font Self="di79FontnMyriad Pro Black SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiExtended Italic" PostScriptName="MyriadPro-BlackSemiExtIt" Status="Substituted" FontStyleName="Black SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiExtended Italic" FullNameNative="Myriad Pro Black SemiExtended Italic" FontStyleNameNative="Black SemiExtended Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di7d" Name="Kozuka Mincho Pro">
+		<Font Self="di7dFontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di7dFontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di7dFontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di7dFontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di7dFontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+		<Font Self="di7dFontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="dic8" Name="Gotham">
+		<Font Self="dic8FontnGotham Light" FontFamily="Gotham" Name="Gotham Light" PostScriptName="Gotham-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Light" FullNameNative="Gotham Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Light Italic" FontFamily="Gotham" Name="Gotham Light Italic" PostScriptName="Gotham-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Light Italic" FullNameNative="Gotham Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Book" FontFamily="Gotham" Name="Gotham Book" PostScriptName="Gotham-Book" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Book" FullNameNative="Gotham Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Book Italic" FontFamily="Gotham" Name="Gotham Book Italic" PostScriptName="Gotham-BookItalic" Status="Installed" FontStyleName="Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Book Italic" FullNameNative="Gotham Book Italic" FontStyleNameNative="Book Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Medium" FontFamily="Gotham" Name="Gotham Medium" PostScriptName="Gotham-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Medium" FullNameNative="Gotham Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Medium Italic" FontFamily="Gotham" Name="Gotham Medium Italic" PostScriptName="Gotham-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Medium Italic" FullNameNative="Gotham Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Bold" FontFamily="Gotham" Name="Gotham Bold" PostScriptName="Gotham-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Bold" FullNameNative="Gotham Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Bold Italic" FontFamily="Gotham" Name="Gotham Bold Italic" PostScriptName="Gotham-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Bold Italic" FullNameNative="Gotham Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Thin" FontFamily="Gotham" Name="Gotham Thin" PostScriptName="Gotham-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Thin" FullNameNative="Gotham Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Thin Italic" FontFamily="Gotham" Name="Gotham Thin Italic" PostScriptName="Gotham-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Thin Italic" FullNameNative="Gotham Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Extra Light" FontFamily="Gotham" Name="Gotham Extra Light" PostScriptName="Gotham-ExtraLight" Status="Installed" FontStyleName="Extra Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Extra Light" FullNameNative="Gotham Extra Light" FontStyleNameNative="Extra Light" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Extra Light Italic" FontFamily="Gotham" Name="Gotham Extra Light Italic" PostScriptName="Gotham-ExtraLightItalic" Status="Installed" FontStyleName="Extra Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Extra Light Italic" FullNameNative="Gotham Extra Light Italic" FontStyleNameNative="Extra Light Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham XLight" FontFamily="Gotham" Name="Gotham XLight" PostScriptName="Gotham-XLight" Status="Substituted" FontStyleName="XLight" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham-XLight" FullNameNative="Gotham-XLight" FontStyleNameNative="XLight" PlatformName="$ID/" Version="001.000" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham XLightItalic" FontFamily="Gotham" Name="Gotham XLightItalic" PostScriptName="Gotham-XLightItalic" Status="Substituted" FontStyleName="XLightItalic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham-XLightItalic" FullNameNative="Gotham-XLightItalic" FontStyleNameNative="XLightItalic" PlatformName="$ID/" Version="001.000" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Black" FontFamily="Gotham" Name="Gotham Black" PostScriptName="Gotham-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Black" FullNameNative="Gotham Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Ultra" FontFamily="Gotham" Name="Gotham Ultra" PostScriptName="Gotham-Ultra" Status="Installed" FontStyleName="Ultra" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Ultra" FullNameNative="Gotham Ultra" FontStyleNameNative="Ultra" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Ultra Italic" FontFamily="Gotham" Name="Gotham Ultra Italic" PostScriptName="Gotham-UltraItalic" Status="Installed" FontStyleName="Ultra Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Ultra Italic" FullNameNative="Gotham Ultra Italic" FontStyleNameNative="Ultra Italic" PlatformName="$ID/" Version="Version 2.200 Pro" TypekitID="$ID/"/>
+		<Font Self="dic8FontnGotham Black Italic" FontFamily="Gotham" Name="Gotham Black Italic" PostScriptName="Gotham-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Gotham Black Italic" FullNameNative="Gotham Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.200" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="dica" Name="Klinic Slab">
+		<Font Self="dicaFontnKlinic Slab Bold" FontFamily="Klinic Slab" Name="Klinic Slab Bold" PostScriptName="KlinicSlab-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Bold" FullNameNative="Klinic Slab Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Bold Italic" FontFamily="Klinic Slab" Name="Klinic Slab Bold Italic" PostScriptName="KlinicSlab-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Bold Italic" FullNameNative="Klinic Slab Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Book" FontFamily="Klinic Slab" Name="Klinic Slab Book" PostScriptName="KlinicSlab-Book" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Book" FullNameNative="Klinic Slab Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Book Italic" FontFamily="Klinic Slab" Name="Klinic Slab Book Italic" PostScriptName="KlinicSlab-BookItalic" Status="Installed" FontStyleName="Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Book Italic" FullNameNative="Klinic Slab Book Italic" FontStyleNameNative="Book Italic" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Light" FontFamily="Klinic Slab" Name="Klinic Slab Light" PostScriptName="KlinicSlab-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Light" FullNameNative="Klinic Slab Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Light Italic" FontFamily="Klinic Slab" Name="Klinic Slab Light Italic" PostScriptName="KlinicSlab-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Light Italic" FullNameNative="Klinic Slab Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Medium" FontFamily="Klinic Slab" Name="Klinic Slab Medium" PostScriptName="KlinicSlab-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Medium" FullNameNative="Klinic Slab Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+		<Font Self="dicaFontnKlinic Slab Medium Italic" FontFamily="Klinic Slab" Name="Klinic Slab Medium Italic" PostScriptName="KlinicSlab-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Klinic Slab Medium Italic" FullNameNative="Klinic Slab Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version1.001" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di5299" Name="Veneer">
+		<Font Self="di5299FontnVeneer Italic" FontFamily="Veneer" Name="Veneer Italic" PostScriptName="Veneer-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Veneer Italic" FullNameNative="Veneer Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.001" TypekitID="$ID/"/>
+		<Font Self="di5299FontnVeneer Regular" FontFamily="Veneer" Name="Veneer Regular" PostScriptName="Veneer" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Veneer" FullNameNative="Veneer" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.001" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di539b" Name="Tisa Pro">
+		<Font Self="di539bFontnTisa Pro Thin" FontFamily="Tisa Pro" Name="Tisa Pro Thin" PostScriptName="TisaPro-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Thin" FullNameNative="TisaPro-Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 7.504; 2009; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Thin Italic" FontFamily="Tisa Pro" Name="Tisa Pro Thin Italic" PostScriptName="TisaPro-ThinIta" Status="Installed" FontStyleName="Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-ThinIta" FullNameNative="TisaPro-ThinIta" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 7.504; 2009; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Light" FontFamily="Tisa Pro" Name="Tisa Pro Light" PostScriptName="TisaPro-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Light" FullNameNative="TisaPro-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 7.504; 2009; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Light Italic" FontFamily="Tisa Pro" Name="Tisa Pro Light Italic" PostScriptName="TisaPro-LightIta" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-LightIta" FullNameNative="TisaPro-LightIta" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 7.504; 2009; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Regular" FontFamily="Tisa Pro" Name="Tisa Pro Regular" PostScriptName="TisaPro" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro" FullNameNative="TisaPro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1024" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Regular Italic" FontFamily="Tisa Pro" Name="Tisa Pro Regular Italic" PostScriptName="TisaPro-Ita" Status="Installed" FontStyleName="Regular Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Ita" FullNameNative="TisaPro-Ita" FontStyleNameNative="Regular Italic" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Medium" FontFamily="Tisa Pro" Name="Tisa Pro Medium" PostScriptName="TisaPro-Medi" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Medi" FullNameNative="TisaPro-Medi" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Medium Italic" FontFamily="Tisa Pro" Name="Tisa Pro Medium Italic" PostScriptName="TisaPro-MediIta" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-MediIta" FullNameNative="TisaPro-MediIta" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Bold" FontFamily="Tisa Pro" Name="Tisa Pro Bold" PostScriptName="TisaPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Bold" FullNameNative="TisaPro-Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1024" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Bold Italic" FontFamily="Tisa Pro" Name="Tisa Pro Bold Italic" PostScriptName="TisaPro-BoldIta" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-BoldIta" FullNameNative="TisaPro-BoldIta" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.504; 2008; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Extrabold" FontFamily="Tisa Pro" Name="Tisa Pro Extrabold" PostScriptName="TisaPro-Xbold" Status="Installed" FontStyleName="Extrabold" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Xbold" FullNameNative="TisaPro-Xbold" FontStyleNameNative="Extrabold" PlatformName="$ID/" Version="Version 7.504; 2010; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Extrabold Italic" FontFamily="Tisa Pro" Name="Tisa Pro Extrabold Italic" PostScriptName="TisaPro-XboldIta" Status="Installed" FontStyleName="Extrabold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-XboldIta" FullNameNative="TisaPro-XboldIta" FontStyleNameNative="Extrabold Italic" PlatformName="$ID/" Version="Version 7.504; 2010; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Black" FontFamily="Tisa Pro" Name="Tisa Pro Black" PostScriptName="TisaPro-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-Black" FullNameNative="TisaPro-Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 7.504; 2010; Build 1023" TypekitID="$ID/"/>
+		<Font Self="di539bFontnTisa Pro Black Italic" FontFamily="Tisa Pro" Name="Tisa Pro Black Italic" PostScriptName="TisaPro-BlackIta" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="TisaPro-BlackIta" FullNameNative="TisaPro-BlackIta" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 7.504; 2010; Build 1023" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di5567" Name="Gotham Narrow"/>
+	<FontFamily Self="di5669" Name="Cambria">
+		<Font Self="di5669FontnCambria Regular" FontFamily="Cambria" Name="Cambria Regular" PostScriptName="Cambria" Status="NotAvailable" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Cambria" FullNameNative="Cambria" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.97" TypekitID="$ID/"/>
+		<Font Self="di5669FontnCambria Italic" FontFamily="Cambria" Name="Cambria Italic" PostScriptName="Cambria-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Cambria Italic" FullNameNative="Cambria Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.96" TypekitID="$ID/"/>
+		<Font Self="di5669FontnCambria Bold" FontFamily="Cambria" Name="Cambria Bold" PostScriptName="Cambria-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Cambria Bold" FullNameNative="Cambria Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 5.96" TypekitID="$ID/"/>
+		<Font Self="di5669FontnCambria Bold Italic" FontFamily="Cambria" Name="Cambria Bold Italic" PostScriptName="Cambria-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Cambria Bold Italic" FullNameNative="Cambria Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.96" TypekitID="$ID/"/>
+	</FontFamily>
+	<FontFamily Self="di567f" Name="Arial">
+		<Font Self="di567fFontnArial Regular" FontFamily="Arial" Name="Arial Regular" PostScriptName="ArialMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Arial" FullNameNative="Arial" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.06" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Italic" FontFamily="Arial" Name="Arial Italic" PostScriptName="Arial-ItalicMT" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Italic" FullNameNative="Arial Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.06" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 5.06" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.06" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.21" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Narrow" FontFamily="Arial" Name="Arial Narrow" PostScriptName="ArialNarrow" Status="Installed" FontStyleName="Narrow" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow" FullNameNative="Arial Narrow" FontStyleNameNative="Narrow" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Narrow Italic" FontFamily="Arial" Name="Arial Narrow Italic" PostScriptName="ArialNarrow-Italic" Status="Installed" FontStyleName="Narrow Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Italic" FullNameNative="Arial Narrow Italic" FontStyleNameNative="Narrow Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Narrow Bold" FontFamily="Arial" Name="Arial Narrow Bold" PostScriptName="ArialNarrow-Bold" Status="Installed" FontStyleName="Narrow Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold" FullNameNative="Arial Narrow Bold" FontStyleNameNative="Narrow Bold" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/"/>
+		<Font Self="di567fFontnArial Narrow Bold Italic" FontFamily="Arial" Name="Arial Narrow Bold Italic" PostScriptName="ArialNarrow-BoldItalic" Status="Installed" FontStyleName="Narrow Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold Italic" FullNameNative="Arial Narrow Bold Italic" FontStyleNameNative="Narrow Bold Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/"/>
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="u7c" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7e" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7f" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u80" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u81" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;'()*+,-./:;&lt;=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u82" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<KinsokuTable Self="KinsokuTable/$ID/kHardKinsokuName" Name="$ID/kHardKinsokuName"/>
+	<KinsokuTable Self="KinsokuTable/Word_Kinsoku" Name="Word_Kinsoku" CantBeginLineChars="" CantEndLineChars="" HangingPunctuationChars="" CantBeSeparatedChars=""/>
+	<KinsokuTable Self="KinsokuTable/$ID/kSoftKinsokuName" Name="$ID/kSoftKinsokuName"/>
+	<KinsokuTable Self="KinsokuTable/$ID/kKoreanKinsokuName" Name="$ID/kKoreanKinsokuName"/>
+	<KinsokuTable Self="KinsokuTable/$ID/kSimpChineseKinsokuName" Name="$ID/kSimpChineseKinsokuName"/>
+	<KinsokuTable Self="KinsokuTable/$ID/kTradChineseKinsokuName" Name="$ID/kTradChineseKinsokuName"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName1" Name="$ID/kMojikumiDefaultName1"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName2" Name="$ID/kMojikumiDefaultName2"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName3" Name="$ID/kMojikumiDefaultName3"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName4" Name="$ID/kMojikumiDefaultName4"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName5" Name="$ID/kMojikumiDefaultName5"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName6" Name="$ID/kMojikumiDefaultName6"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName7" Name="$ID/kMojikumiDefaultName7"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName8" Name="$ID/kMojikumiDefaultName8"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName9" Name="$ID/kMojikumiDefaultName9"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName10" Name="$ID/kMojikumiDefaultName10"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName11" Name="$ID/kMojikumiDefaultName11"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName12" Name="$ID/kMojikumiDefaultName12"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName13" Name="$ID/kMojikumiDefaultName13"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName14" Name="$ID/kMojikumiDefaultName14"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName15" Name="$ID/kMojikumiDefaultName15"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName16" Name="$ID/kMojikumiDefaultName16"/>
+	<RootCharacterStyleGroup Self="u65">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" Name="$ID/[No character style]"/>
+		<CharacterStyle Self="CharacterStyle/Serves Head - Main" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Serves Head - Main" FillColor="Color/Recipe Primary 2" FontStyle="Bold" PointSize="8" Ligatures="false" Tracking="0" StrokeColor="Swatch/None" NoBreak="false" Underline="false" StrikeThru="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Per Serve Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Per Serve Bold" FillColor="Color/Recipe Primary 2" FontStyle="Bold" PointSize="6" StrokeColor="Swatch/None">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">6</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Recipe step number" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Recipe step number" FillColor="Color/Recipe Alternate" FontStyle="Regular" PointSize="12" Ligatures="false" Tracking="0" StrokeColor="Swatch/None" NoBreak="false" Underline="false" StrikeThru="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11.5</Leading>
+				<AppliedFont type="string">Tisa Pro</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false"/>
+	<RootParagraphStyleGroup Self="u64">
+		<ParagraphStyle Self="ParagraphStyle/Recipe Name - Main" Name="Recipe Name - Main" Imported="false" NextStyle="ParagraphStyle/Recipe Name - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Alternate" FontStyle="Light" PointSize="13" Capitalization="AllCaps" LeftIndent="8.503937007874017" FirstLineIndent="-8.503937007874017">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Serves - Main</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Tisa Pro</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Serves - Main" Name="Serves - Main" Imported="false" NextStyle="ParagraphStyle/Serves - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="8" Ligatures="false" Composer="HL Single" AppliedLanguage="$ID/English: USA" Hyphenation="false" RuleAboveOffset="13.322834645669293" RuleBelowOffset="8.503937007874017" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<RuleAboveColor type="object">Color/Recipe Primary 2</RuleAboveColor>
+				<RuleBelowColor type="object">Color/Recipe Primary 2</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Canned Dotted</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Canned Dotted</RuleBelowType>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Ingredients - Main" Name="Ingredients - Main" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Medium" PointSize="8" Ligatures="false" Composer="HL Single" LeftIndent="8.503937007874017" FirstLineIndent="-8.503937007874017" AppliedLanguage="$ID/English: USA" Hyphenation="false" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Normal" Name="Normal" Imported="true" NextStyle="ParagraphStyle/Normal" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" AppliedLanguage="$ID/English: USA">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Cambria</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Steps - Main" Name="Steps - Main" Imported="false" NextStyle="ParagraphStyle/Steps - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="8" Ligatures="false" Composer="HL Single" AppliedLanguage="$ID/English: USA" Hyphenation="false" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" BulletsAndNumberingListType="NumberedList" NumberingExpression="^#. " DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"/>
+						<Position type="unit">0</Position>
+					</ListItem>
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"/>
+						<Position type="unit">8.503937007874017</Position>
+					</ListItem>
+				</TabList>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<NumberingCharacterStyle type="object">CharacterStyle/Recipe step number</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Per Serve Head" Name="Per Serve Head" Imported="false" NextStyle="ParagraphStyle/Per Serve Head" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Primary 2" FontStyle="Bold" RuleAbove="true">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Per Serve</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Per Serve" Name="Per Serve" Imported="false" NextStyle="ParagraphStyle/Per Serve" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="6" StrokeWeight="0.5083178238550853" Tracking="-40" Composer="HL Single" BaselineShift="-0" HyphenateLadderLimit="2" AutoLeading="100" Hyphenation="false" HyphenateAfterFirst="3" HyphenateBeforeLast="3" HyphenateWordsLongerThan="6" HyphenationZone="0" DesiredWordSpacing="110.00000000000001" MaximumWordSpacing="120" MinimumWordSpacing="85" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" MaximumGlyphScaling="101" MinimumGlyphScaling="99" CharacterAlignment="AlignBaseline" RuleAboveLineWeight="0.25" RuleAboveTint="100" RuleAboveOffset="1.4173228346456694" RuleAboveLeftIndent="34.01574803149607" RuleBelowLineWeight="0.8926291250110521" RuleBelowTint="100" DropcapDetail="0" MiterLimit="2.033271295420341" SplitColumnInsideGutter="5.3557747500663115" RubyOpenTypePro="false" RubyAutoAlign="false" WarichuAlignment="LeftAlign">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">7</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<RuleBelowColor type="object">Color/Black</RuleBelowColor>
+				<RuleAboveGapColor type="string">Text Color</RuleAboveGapColor>
+				<RuleBelowGapColor type="string">Text Color</RuleBelowGapColor>
+				<UnderlineGapColor type="string">Text Color</UnderlineGapColor>
+				<StrikeThroughGapColor type="string">Text Color</StrikeThroughGapColor>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Serving suggestion" Name="Serving suggestion" Imported="false" NextStyle="ParagraphStyle/Serving suggestion" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="7" Tracking="-20" Composer="HL Single" Hyphenation="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="false" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePosition" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226"/>
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0"/>
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<XMLTag Self="XMLTag/recipe" Name="recipe">
+		<Properties>
+			<TagColor type="enumeration">Red</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/title" Name="title">
+		<Properties>
+			<TagColor type="enumeration">Blue</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/serving" Name="serving">
+		<Properties>
+			<TagColor type="enumeration">Yellow</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/ingredients" Name="ingredients">
+		<Properties>
+			<TagColor type="enumeration">DarkGreen</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/inggroup" Name="inggroup">
+		<Properties>
+			<TagColor type="enumeration">LightBlue</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/ings" Name="ings">
+		<Properties>
+			<TagColor type="enumeration">Green</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/ing" Name="ing">
+		<Properties>
+			<TagColor type="enumeration">Teal</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/preparation" Name="preparation">
+		<Properties>
+			<TagColor type="enumeration">Pink</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/prepstepgroup" Name="prepstepgroup">
+		<Properties>
+			<TagColor type="enumeration">Red</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/prepsteps" Name="prepsteps">
+		<Properties>
+			<TagColor type="enumeration">Red</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/prepstep" Name="prepstep">
+		<Properties>
+			<TagColor type="enumeration">Lavender</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/nutrition" Name="nutrition">
+		<Properties>
+			<TagColor type="enumeration">BrickRed</TagColor>
+		</Properties>
+	</XMLTag>
+	<CrossReferenceFormat Self="u2ea0" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea0BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea0BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea0BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea1" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea1BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea2" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea2BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea2BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea2BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea2BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea3" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea3BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea3BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea3BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea4" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea4BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea4BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea4BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea5" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea5BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea6" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea6BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea6BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea6BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea7" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea7BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea7BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea7BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2ea8" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2ea8BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u2ea8BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<Story Self="u589a" Guid="d1216f7e-53ca-48fd-8d41-355b99f76763" VersionGuid="76c614ac-9646-4ed7-8fbc-20ee74a8f86f" AppliedOsGuid="$ID/" OsApplyOption="1" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/body" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c014 79.156797, 2014/08/20-09:53:02        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <xmp:CreateDate>2018-02-19T12:26:14+11:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-02-19T12:26:14+11:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-02-19T12:26:14+11:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 2014 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>xmp.iid:f007b90b-e533-40a1-ace0-4e96a6ec37dd</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:f007b90b-e533-40a1-ace0-4e96a6ec37dd</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:f007b90b-e533-40a1-ace0-4e96a6ec37dd</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:f007b90b-e533-40a1-ace0-4e96a6ec37dd</stEvt:instanceID>
+                  <stEvt:when>2018-02-19T12:26:14+11:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2014 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">body</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+		<XMLElement Self="di3i6" MarkupTag="XMLTag/recipe" XMLContent="u589a">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Recipe Name - Main">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<XMLElement Self="di3i6i1c" MarkupTag="XMLTag/title">
+						<Content>Pizza bites</Content>
+						<Br/>
+					</XMLElement>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Serves - Main">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Serves Head - Main" Tracking="-15"/>
+				<XMLElement Self="di3i6i1b" MarkupTag="XMLTag/serving">
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Serves Head - Main" Tracking="-15">
+						<Content>Makes</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-15">
+						<Content> 18  </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Serves Head - Main" Tracking="-15">
+						<Content>Prep</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-15">
+						<Content> 15 mins   </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Serves Head - Main" Tracking="-15">
+						<Content>Cooking</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" Tracking="-15">
+						<Content> 15 mins</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+						<Br/>
+					</CharacterStyleRange>
+					<XMLAttribute Self="di3i6i1bXMLAttributenyieldextra" Name="yieldextra" Value=""/>
+					<XMLAttribute Self="di3i6i1bXMLAttributenyield" Name="yield" Value="18"/>
+					<XMLAttribute Self="di3i6i1bXMLAttributenpreptimeextra" Name="preptimeextra" Value=""/>
+					<XMLAttribute Self="di3i6i1bXMLAttributenpreptimeunits" Name="preptimeunits" Value="mins"/>
+					<XMLAttribute Self="di3i6i1bXMLAttributenpreptimeqty" Name="preptimeqty" Value="15"/>
+					<XMLAttribute Self="di3i6i1bXMLAttributencooktimeextra" Name="cooktimeextra" Value=""/>
+					<XMLAttribute Self="di3i6i1bXMLAttributencooktimeunits" Name="cooktimeunits" Value="mins"/>
+					<XMLAttribute Self="di3i6i1bXMLAttributencooktimeqty" Name="cooktimeqty" Value="15"/>
+				</XMLElement>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ingredients - Main">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+			<XMLElement Self="di3i6i1f" MarkupTag="XMLTag/ingredients">
+				<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ingredients - Main">
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]"/>
+				</ParagraphStyleRange>
+				<XMLElement Self="di3i6i1fi1e" MarkupTag="XMLTag/inggroup">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ingredients - Main">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]"/>
+					</ParagraphStyleRange>
+					<XMLElement Self="di3i6i1fi1ei1d" MarkupTag="XMLTag/ings">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ingredients - Main">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<XMLElement Self="di3i6i1fi1ei1di19" MarkupTag="XMLTag/ing">
+									<Content>2 sheets frozen puff pastry</Content>
+									<Br/>
+									<XMLAttribute Self="di3i6i1fi1ei1di19XMLAttributeningsort" Name="ingsort" Value="1"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di19XMLAttributenfooditem" Name="fooditem" Value="sheets frozen puff pastry"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di19XMLAttributendirection" Name="direction" Value=""/>
+									<XMLAttribute Self="di3i6i1fi1ei1di19XMLAttributenunit" Name="unit" Value=""/>
+									<XMLAttribute Self="di3i6i1fi1ei1di19XMLAttributenqty" Name="qty" Value="2"/>
+								</XMLElement>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false"/>
+							<XMLElement Self="di3i6i1fi1ei1di18" MarkupTag="XMLTag/ing">
+								<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+									<Content>¼</Content>
+								</CharacterStyleRange>
+								<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+									<Content> cup (70g) pizza sauce</Content>
+									<Br/>
+								</CharacterStyleRange>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributeningsort" Name="ingsort" Value="2"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenfooditem" Name="fooditem" Value="pizza sauce"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributendirection" Name="direction" Value=""/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenunit" Name="unit" Value="cup"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenqty" Name="qty" Value="¼"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenfooditemalt" Name="fooditemalt" Value=""/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenunitalt" Name="unitalt" Value="g"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di18XMLAttributenqtyalt" Name="qtyalt" Value="70"/>
+							</XMLElement>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<XMLElement Self="di3i6i1fi1ei1di17" MarkupTag="XMLTag/ing">
+									<Content>80g shredded ham</Content>
+									<Br/>
+									<XMLAttribute Self="di3i6i1fi1ei1di17XMLAttributeningsort" Name="ingsort" Value="3"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di17XMLAttributenfooditem" Name="fooditem" Value="ham"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di17XMLAttributendirection" Name="direction" Value="shredded"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di17XMLAttributenunit" Name="unit" Value="g"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di17XMLAttributenqty" Name="qty" Value="80"/>
+								</XMLElement>
+								<XMLElement Self="di3i6i1fi1ei1di16" MarkupTag="XMLTag/ing">
+									<Content>227g can pineapple chunks  in juice, drained</Content>
+									<Br/>
+									<XMLAttribute Self="di3i6i1fi1ei1di16XMLAttributeningsort" Name="ingsort" Value="4"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di16XMLAttributenfooditem" Name="fooditem" Value="pineapple chunks in juice"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di16XMLAttributendirection" Name="direction" Value="drained"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di16XMLAttributenunit" Name="unit" Value="227g can"/>
+									<XMLAttribute Self="di3i6i1fi1ei1di16XMLAttributenqty" Name="qty" Value="1"/>
+								</XMLElement>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false"/>
+							<XMLElement Self="di3i6i1fi1ei1di15" MarkupTag="XMLTag/ing">
+								<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+									<Content>⅔</Content>
+								</CharacterStyleRange>
+								<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+									<Content> cup (70g) shredded pizza cheese</Content>
+									<Br/>
+								</CharacterStyleRange>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributeningsort" Name="ingsort" Value="5"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenfooditem" Name="fooditem" Value="pizza cheese"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributendirection" Name="direction" Value="shredded"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenunit" Name="unit" Value="cup"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenqty" Name="qty" Value="⅔"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenfooditemalt" Name="fooditemalt" Value=""/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenunitalt" Name="unitalt" Value="g"/>
+								<XMLAttribute Self="di3i6i1fi1ei1di15XMLAttributenqtyalt" Name="qtyalt" Value="70"/>
+							</XMLElement>
+						</ParagraphStyleRange>
+					</XMLElement>
+					<XMLAttribute Self="di3i6i1fi1eXMLAttributeninggroupsort" Name="inggroupsort" Value="1"/>
+				</XMLElement>
+			</XMLElement>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Normal" GridAlignment="AlignBaseline">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Properties>
+						<Leading type="unit">11</Leading>
+						<AppliedFont type="string">Arial</AppliedFont>
+					</Properties>
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Steps - Main">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]"/>
+			</ParagraphStyleRange>
+			<XMLElement Self="di3i6i22" MarkupTag="XMLTag/preparation">
+				<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Steps - Main">
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]"/>
+				</ParagraphStyleRange>
+				<XMLElement Self="di3i6i22i21" MarkupTag="XMLTag/prepstepgroup">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Steps - Main">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]"/>
+					</ParagraphStyleRange>
+					<XMLElement Self="di3i6i22i21i20" MarkupTag="XMLTag/prepsteps">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Steps - Main">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<XMLElement Self="di3i6i22i21i20i14" MarkupTag="XMLTag/prepstep">
+									<Content>Preheat oven to 200°C. Grease a large baking tray. Use a 7cm round cutter to cut 9 discs from each pastry sheet. Place on prepared tray. Spread evenly with pizza sauce. Top with ham, pineapple and cheese. </Content>
+									<Br/>
+									<XMLAttribute Self="di3i6i22i21i20i14XMLAttributenprepstepsort" Name="prepstepsort" Value="1"/>
+								</XMLElement>
+								<XMLElement Self="di3i6i22i21i20i13" MarkupTag="XMLTag/prepstep">
+									<Content>Bake for 15 mins or until cheese melts and base is crisp.</Content>
+									<HyperlinkTextDestination Self="HyperlinkTextDestination/.22490" Name=".22490" Hidden="true" DestinationUniqueKey="2"/>
+									<Br/>
+									<XMLAttribute Self="di3i6i22i21i20i13XMLAttributenprepstepsort" Name="prepstepsort" Value="2"/>
+								</XMLElement>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</XMLElement>
+					<XMLAttribute Self="di3i6i22i21XMLAttributenprepstepgroupsort" Name="prepstepgroupsort" Value="1"/>
+				</XMLElement>
+			</XMLElement>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Per Serve Head" RuleAboveLeftIndent="32.59842519685039">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>PER </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>PIZZA</Content>
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Per Serve">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+					<Properties>
+						<Leading type="unit">7</Leading>
+					</Properties>
+				</CharacterStyleRange>
+				<XMLElement Self="di3i6i12" MarkupTag="XMLTag/nutrition">
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Energy</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>359</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>kJ</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>/</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/Optical" Ligatures="false" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>86</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> Cals </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/Optical" Ligatures="false" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(4</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/Optical" Ligatures="false" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Protein</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>3</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(6</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Fat</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>4</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(6</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Sat Fat</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>3</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(13</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Sodium</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>154</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>mg </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(8</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>C</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>arb</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>8</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(3</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>S</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>ugar</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>2</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(2</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Per Serve Bold" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Properties>
+							<Leading type="unit">7</Leading>
+						</Properties>
+						<Content>Dietary Fibre</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="0" RubyFontSize="-0.5083178238550853" KentenFontSize="-0.5083178238550853">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>1</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>g </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>(3</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>%</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content>)</Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" KerningValue="0" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Content> </Content>
+					</CharacterStyleRange>
+					<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="0.8387244093608907" MiterLimit="3.3548976374435626" RubyFontSize="-0.8387244093608907" KentenFontSize="-0.8387244093608907">
+						<Br/>
+					</CharacterStyleRange>
+					<XMLAttribute Self="di3i6i12XMLAttributenper" Name="per" Value="pizza"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenkJ" Name="kJ" Value="359"/>
+					<XMLAttribute Self="di3i6i12XMLAttributencalories" Name="calories" Value="86"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenenergy_pct" Name="energy_pct" Value="4"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenprotein_g" Name="protein_g" Value="3"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenprotein_pct" Name="protein_pct" Value="6"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenfat_g" Name="fat_g" Value="4"/>
+					<XMLAttribute Self="di3i6i12XMLAttributenfat_pct" Name="fat_pct" Value="6"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensaturatedfat" Name="saturatedfat" Value="3"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensaturatedfat_pct" Name="saturatedfat_pct" Value="13"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensodium_mg" Name="sodium_mg" Value="154"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensodium_pct" Name="sodium_pct" Value="8"/>
+					<XMLAttribute Self="di3i6i12XMLAttributencarb_g" Name="carb_g" Value="8"/>
+					<XMLAttribute Self="di3i6i12XMLAttributencarb_pct" Name="carb_pct" Value="3"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensugars_g" Name="sugars_g" Value="2"/>
+					<XMLAttribute Self="di3i6i12XMLAttributensugars_pct" Name="sugars_pct" Value="2"/>
+					<XMLAttribute Self="di3i6i12XMLAttributendietaryfibre_g" Name="dietaryfibre_g" Value="1"/>
+					<XMLAttribute Self="di3i6i12XMLAttributendietaryfibre_pct" Name="dietaryfibre_pct" Value="3"/>
+				</XMLElement>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Serving suggestion" TreatIdeographicSpaceAsSpace="true">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Medium" PointSize="6" Tracking="0" AppliedLanguage="$ID/English: USA" Underline="true" UnderlineOffset="-2.3" UnderlineWeight="7" DiacriticPosition="OpentypePositionFromBaseline">
+					<Properties>
+						<Leading type="unit">9</Leading>
+						<UnderlineColor type="object">Color/Recipe Alternate</UnderlineColor>
+					</Properties>
+					<Content> SERVE WITH </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="6.5" Tracking="0" AppliedLanguage="$ID/English: USA" DiacriticPosition="OpentypePositionFromBaseline">
+					<Properties>
+						<Leading type="unit">9</Leading>
+					</Properties>
+					<Content> basil leaves</Content>
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Steps - Main">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium"/>
+			</ParagraphStyleRange>
+			<XMLAttribute Self="di3i6XMLAttributenrecipeID" Name="recipeID" Value="1522043233888"/>
+			<XMLAttribute Self="di3i6XMLAttributendossierID" Name="dossierID" Value="158690"/>
+			<XMLAttribute Self="di3i6XMLAttributenPublication" Name="Publication" Value="Coles Magazine"/>
+			<XMLAttribute Self="di3i6XMLAttributenYear" Name="Year" Value="2018"/>
+			<XMLAttribute Self="di3i6XMLAttributenMonth" Name="Month" Value="April"/>
+			<XMLAttribute Self="di3i6XMLAttributenparentRecipeID" Name="parentRecipeID" Value=""/>
+			<XMLAttribute Self="di3i6XMLAttributenonline_title" Name="online_title" Value="Pizza Bites"/>
+		</XMLElement>
+	</Story>
+</Document></ea:Story><ea:wwsd_document ea:version="1.0"><ea:wwsd_styles pi0="style=&quot;50&quot; type=&quot;snippet&quot; readerVersion=&quot;6.0&quot; featureSet=&quot;1025&quot; product=&quot;10.2(107)&quot; " pi1="SnippetType=&quot;PageItem&quot;"><Document DOMVersion="10.2" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Recipe Primary 2" Model="Process" Space="CMYK" ColorValue="73 7.000000000000001 38 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Recipe Primary 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Recipe Alternate" Model="Process" Space="CMYK" ColorValue="0 89 26 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Recipe Alternate" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dotted" Name="$ID/Canned Dotted"/>
+	<RootCharacterStyleGroup Self="u65">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" Name="$ID/[No character style]"/>
+		<CharacterStyle Self="CharacterStyle/Slug" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Slug" FontStyle="Regular" Tracking="20">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Veneer</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Caption" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Caption" FontStyle="Medium" PointSize="7" Tracking="0">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">9</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Recipe step number" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Recipe step number" FillColor="Color/Recipe Alternate" FontStyle="Regular" PointSize="12" Ligatures="false" Tracking="0" StrokeColor="Swatch/None" NoBreak="false" Underline="false" StrikeThru="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11.5</Leading>
+				<AppliedFont type="string">Tisa Pro</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Serves Head - Main" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Serves Head - Main" FillColor="Color/Recipe Primary 2" FontStyle="Bold" PointSize="8" Ligatures="false" Tracking="0" StrokeColor="Swatch/None" NoBreak="false" Underline="false" StrikeThru="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Per Serve Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Per Serve Bold" FillColor="Color/Recipe Primary 2" FontStyle="Bold" PointSize="6" StrokeColor="Swatch/None">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">6</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Box Tip Heading" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Box Tip Heading" FontStyle="Regular" PointSize="18" KerningMethod="$ID/Optical" Ligatures="false" StrokeWeight="2.4558801179495195" Tracking="0" BaselineShift="-0" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" CharacterAlignment="AlignBaseline" MiterLimit="9.823520471798078" RubyOpenTypePro="false" RubyAutoAlign="false" WarichuAlignment="LeftAlign" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">18</Leading>
+				<AppliedFont type="string">Veneer</AppliedFont>
+				<UnderlineGapColor type="string">Text Color</UnderlineGapColor>
+				<StrikeThroughGapColor type="string">Text Color</StrikeThroughGapColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Small Tip Heading" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Small Tip Heading" FillColor="Color/Black" PointSize="14" KerningMethod="$ID/Optical" Ligatures="false" BaselineShift="-0" Capitalization="AllCaps" StrokeColor="Swatch/None" AppliedLanguage="$ID/English: USA" CharacterAlignment="AlignBaseline" RubyOpenTypePro="false" RubyAutoAlign="false" WarichuAlignment="LeftAlign" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11.5</Leading>
+				<AppliedFont type="string">Veneer</AppliedFont>
+				<UnderlineGapColor type="string">Text Color</UnderlineGapColor>
+				<StrikeThroughGapColor type="string">Text Color</StrikeThroughGapColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false"/>
+	<RootParagraphStyleGroup Self="u64">
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="false" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePosition" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226"/>
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0"/>
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Serves - Main" Name="Serves - Main" Imported="false" NextStyle="ParagraphStyle/Serves - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="8" Ligatures="false" Composer="HL Single" AppliedLanguage="$ID/English: USA" Hyphenation="false" RuleAboveOffset="13.322834645669293" RuleBelowOffset="8.503937007874017" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<RuleAboveColor type="object">Color/Recipe Primary 2</RuleAboveColor>
+				<RuleBelowColor type="object">Color/Recipe Primary 2</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Canned Dotted</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Canned Dotted</RuleBelowType>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Recipe Name - Main" Name="Recipe Name - Main" Imported="false" NextStyle="ParagraphStyle/Recipe Name - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Alternate" FontStyle="Light" PointSize="13" Capitalization="AllCaps" LeftIndent="8.503937007874017" FirstLineIndent="-8.503937007874017">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Serves - Main</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Tisa Pro</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Paragraph Style 1" Name="Paragraph Style 1" Imported="false" NextStyle="ParagraphStyle/Paragraph Style 1" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Recipe Name - Main</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Steps - Main" Name="Steps - Main" Imported="false" NextStyle="ParagraphStyle/Steps - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="8" Ligatures="false" Composer="HL Single" AppliedLanguage="$ID/English: USA" Hyphenation="false" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" BulletsAndNumberingListType="NumberedList" NumberingExpression="^#. " DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"/>
+						<Position type="unit">0</Position>
+					</ListItem>
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"/>
+						<Position type="unit">8.503937007874017</Position>
+					</ListItem>
+				</TabList>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<NumberingCharacterStyle type="object">CharacterStyle/Recipe step number</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Ingredients - Main" Name="Ingredients - Main" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Medium" PointSize="8" Ligatures="false" Composer="HL Single" LeftIndent="8.503937007874017" FirstLineIndent="-8.503937007874017" AppliedLanguage="$ID/English: USA" Hyphenation="false" GridAlignment="AlignBaseline" TreatIdeographicSpaceAsSpace="true" DiacriticPosition="OpentypePositionFromBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Ingredient Subhead - Main" Name="Ingredient Subhead - Main" Imported="false" NextStyle="ParagraphStyle/Ingredient Subhead - Main" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Primary 2" AppliedLanguage="$ID/English: UK" TreatIdeographicSpaceAsSpace="false" DiacriticPosition="OpentypePosition">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Ingredients - Main</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Per Serve" Name="Per Serve" Imported="false" NextStyle="ParagraphStyle/Per Serve" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="6" StrokeWeight="0.5083178238550853" Tracking="-40" Composer="HL Single" BaselineShift="-0" HyphenateLadderLimit="2" AutoLeading="100" Hyphenation="false" HyphenateAfterFirst="3" HyphenateBeforeLast="3" HyphenateWordsLongerThan="6" HyphenationZone="0" DesiredWordSpacing="110.00000000000001" MaximumWordSpacing="120" MinimumWordSpacing="85" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" MaximumGlyphScaling="101" MinimumGlyphScaling="99" CharacterAlignment="AlignBaseline" RuleAboveLineWeight="0.25" RuleAboveTint="100" RuleAboveOffset="1.4173228346456694" RuleAboveLeftIndent="34.01574803149607" RuleBelowLineWeight="0.8926291250110521" RuleBelowTint="100" DropcapDetail="0" MiterLimit="2.033271295420341" SplitColumnInsideGutter="5.3557747500663115" RubyOpenTypePro="false" RubyAutoAlign="false" WarichuAlignment="LeftAlign">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">7</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<RuleBelowColor type="object">Color/Black</RuleBelowColor>
+				<RuleAboveGapColor type="string">Text Color</RuleAboveGapColor>
+				<RuleBelowGapColor type="string">Text Color</RuleBelowGapColor>
+				<UnderlineGapColor type="string">Text Color</UnderlineGapColor>
+				<StrikeThroughGapColor type="string">Text Color</StrikeThroughGapColor>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Per Serve Head" Name="Per Serve Head" Imported="false" NextStyle="ParagraphStyle/Per Serve Head" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Primary 2" FontStyle="Bold" RuleAbove="true">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Per Serve</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Tip Body Copy" Name="Tip Body Copy" Imported="false" NextStyle="ParagraphStyle/Tip Body Copy" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Book" PointSize="8" Ligatures="false" Hyphenation="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Editorial - Intro" Name="Editorial - Intro" Imported="false" NextStyle="ParagraphStyle/Editorial - Intro" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="10" KerningMethod="$ID/Optical" Ligatures="false" StrokeWeight="0.9476190476190307" Composer="HL Single" Capitalization="AllCaps" Hyphenation="false" HyphenationZone="34.1142857142851" FillTint="70" RuleAboveLineWeight="0.9476190476190307" RuleBelowLineWeight="0.9476190476190307" MiterLimit="3.790476190476123" SplitColumnInsideGutter="5.685714285714184">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">14</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Captions" Name="Captions" Imported="false" NextStyle="ParagraphStyle/Captions" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Medium" PointSize="7.5">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Gotham Narrow</AppliedFont>
+				<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+				<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Recipe Name - Advertorial" Name="Recipe Name - Advertorial" Imported="false" NextStyle="ParagraphStyle/Recipe Name - Advertorial" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Recipe Primary 2" FontStyle="Bold" PointSize="9" KerningMethod="$ID/Optical" Ligatures="false" Composer="HL Single" Capitalization="AllCaps" Hyphenation="false" RuleBelowOffset="8.503937007874017" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Captions</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+				<RuleBelowColor type="object">Color/Black</RuleBelowColor>
+				<RuleBelowType type="object">StrokeStyle/$ID/Canned Dotted</RuleBelowType>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Serving suggestion" Name="Serving suggestion" Imported="false" NextStyle="ParagraphStyle/Serving suggestion" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="7" Tracking="-20" Composer="HL Single" Hyphenation="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Advertorial - Iintro" Name="Advertorial - Iintro" Imported="false" NextStyle="ParagraphStyle/Advertorial - Iintro" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="11" Tracking="10" Composer="HL Single" Hyphenation="false" FillTint="75">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">13</Leading>
+				<AppliedFont type="string">Gotham</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Normal" Name="Normal" Imported="true" NextStyle="ParagraphStyle/Normal" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" AppliedLanguage="$ID/English: USA">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Cambria</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<TransparencyDefaultContainerObject>
+		<TransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</TransparencySetting>
+		<StrokeTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</StrokeTransparencySetting>
+		<FillTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</FillTransparencySetting>
+		<ContentTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</ContentTransparencySetting>
+	</TransparencyDefaultContainerObject>
+	<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c014 79.156797, 2014/08/20-09:53:02        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <dc:format>application/x-indesign</dc:format>
+         <xmp:CreatorTool>Adobe InDesign CC 2014 (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2018-03-26T16:49:30+11:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-03-26T16:49:30+11:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-03-26T16:49:30+11:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:f5ea3da5-1573-604c-91df-fb45875dad64</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:f5ea3da5-1573-604c-91df-fb45875dad64</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:f5ea3da5-1573-604c-91df-fb45875dad64</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:f5ea3da5-1573-604c-91df-fb45875dad64</stEvt:instanceID>
+                  <stEvt:when>2018-03-26T16:49:30+11:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2014 (Windows)</stEvt:softwareAgent>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+</Document></ea:wwsd_styles></ea:wwsd_document></ea:Stories>

@@ -1,0 +1,67 @@
+{% set recipe = {
+                title: "Cheesy Sweet potato & Bacon loaf",
+                img: "cheesy-sweet-potato-and-bacon-loaf.jpg",
+                preptime: "15 mins",
+                preptimeschema: "15M",
+                prepadd: "+ cooling & 5 mins standing time",
+                cooktime: "50 mins",
+                cooktimeschema: "50M",
+                cookadd: "",
+                difficulty: "Easy",
+                serves: "4",
+                ctaurl: "",
+                today : "01/09/2019",
+                description: "",
+                keywords: "",
+                cuisine : "Australian"
+            } %}
+
+            {% set category = {
+                    name: 'Lunchbox Ideas',
+                    uri: '/inspireandcreate/lunchboxideas'
+            } %}
+
+            
+        {% block ingridients %}
+        
+        <li itemprop="recipeIngredient">400g gold sweet potato, peeled, cut into 2cm pieces</li> 
+<li itemprop="recipeIngredient">300g Coles Bakery Stone Baked White Sourdough Vienna*</li> 
+<li itemprop="recipeIngredient">3 bacon rashers, finely chopped</li> 
+<li itemprop="recipeIngredient">1 spring onion, thinly sliced</li> 
+<li itemprop="recipeIngredient">8 Coles Australian Free Range Eggs, lightly whisked</li> 
+<li itemprop="recipeIngredient">1 cup (250ml) milk</li> 
+<li itemprop="recipeIngredient">½ cup (60g) coarsely grated tasty cheddar</li> 
+
+        {% endblock %}
+        {% block method %}
+        
+        <ol>
+   <li>Preheat oven to 180°C. Grease the base and sides of a 20cm (base measurement) square cake pan and line with baking paper.</li> 
+   <li>Cook the sweet potato in a saucepan of boiling water for 5 mins or until just tender. Drain well. </li> 
+   <li>Cut the bread into 2cm-thick slices, then cut each slice in half crossways. Layer the sweet potato, bacon, bread and spring onion in the prepared pan. </li> 
+   <li>Whisk the egg and milk in a large jug until combined. Pour over the bread mixture in the pan and set aside for 5 mins to soak. Sprinkle with cheddar. </li> 
+   <li>Place the cake pan in a large roasting pan. Add enough hot water to the roasting pan to come halfway up the side of the cake pan. Bake for 45 mins or until the egg mixture is set. Remove the cake pan from the water. Set aside to cool completely. </li> 
+   <li>Turn the loaf out onto a clean work surface. Cut into slices.</li> 
+</ol>
+
+
+            {% endblock %}
+
+                 {% set nutri = false  %}
+                            {% block nutriblock %}
+            
+     
+            <div class="nutrition">
+                <p><strong>NUTRITION INFORMATION (per serve) </strong><br>                              
+                    <strong><strong>Energy</strong> 2269kJ</span>
+                    <span><strong>Cals</strong> 543 </span>
+                    <span><strong>Protein </strong> 34g</span>
+                    <span><strong>Fat</strong> 21g</span>
+                    <span><strong>Sat Fat</strong> 8g </span>
+                    <span><strong>Sodium</strong> 1134mg</span>
+                    <span><strong>Carb</strong> 51g</span>
+                    <span><strong>Sugar</strong> 12g</span>
+                    <span><strong>Dietary Fibre</strong> 7g</span>
+            </p> </div>
+            
+   {% endblock %}

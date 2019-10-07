@@ -1,0 +1,66 @@
+{% set recipe = {
+                title: "Tuna & zucchini slice",
+                img: "tuna-and-zucchini-slice.jpg",
+                preptime: "15 mins",
+                preptimeschema: "15M",
+                prepadd: "+ cooling time",
+                cooktime: "45 mins",
+                cooktimeschema: "45M",
+                cookadd: "",
+                difficulty: "Easy",
+                serves: "8 pieces",
+                ctaurl: "",
+                today : "01/09/2019",
+                description: "",
+                keywords: "",
+                cuisine : "Australian"
+            } %}
+
+            {% set category = {
+                    name: 'Lunchbox Ideas',
+                    uri: '/inspireandcreate/lunchboxideas'
+            } %}
+
+            
+        {% block ingridients %}
+        
+        <li itemprop="recipeIngredient">1 tbs olive oil</li> 
+<li itemprop="recipeIngredient">1 brown onion, finely chopped </li> 
+<li itemprop="recipeIngredient">1 garlic clove, crushed</li> 
+<li itemprop="recipeIngredient">3 medium zucchini, coarsely grated</li> 
+<li itemprop="recipeIngredient">425g can tuna, drained, flaked</li> 
+<li itemprop="recipeIngredient">1 cup (120g) shredded tasty cheddar</li> 
+<li itemprop="recipeIngredient">1 cup (135g) gluten-free self-raising flour</li> 
+<li itemprop="recipeIngredient">½ cup (125ml) olive oil, extra</li> 
+<li itemprop="recipeIngredient">4 Coles Australian Free Range Eggs</li> 
+
+        {% endblock %}
+        {% block method %}
+        
+        <ol>
+   <li>Preheat oven to 180°C. Grease and line the base and sides of a 17cm x 27cm slice pan with baking paper. Heat oil in a frying pan over high heat. Cook onion and garlic for 3 mins or until softened. Transfer to a large bowl.</li> 
+   <li>Stir the zucchini, tuna, cheddar and flour into onion mixture. Combine the extra oil and eggs in a bowl. Add to the zucchini mixture and stir until well combined. Pour into prepared pan.</li> 
+   <li>Bake for 40 mins or until golden and firm. Cool in the pan. Cut into pieces. </li> 
+</ol>
+
+
+            {% endblock %}
+
+                 {% set nutri = false  %}
+                            {% block nutriblock %}
+            
+     
+            <div class="nutrition">
+                <p><strong>NUTRITION INFORMATION (per piece) </strong><br>                              
+                    <strong><strong>Energy</strong> 1567kJ</span>
+                    <span><strong>Cals</strong> 375 </span>
+                    <span><strong>Protein </strong> 18g</span>
+                    <span><strong>Fat</strong> 27g</span>
+                    <span><strong>Sat Fat</strong> 7g </span>
+                    <span><strong>Sodium</strong> 410mg</span>
+                    <span><strong>Carb</strong> 15g</span>
+                    <span><strong>Sugar</strong> 2g</span>
+                    <span><strong>Dietary Fibre</strong> 2g</span>
+            </p> </div>
+            
+   {% endblock %}

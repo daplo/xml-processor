@@ -1,0 +1,78 @@
+{% extends "recipe-base.nj" %}
+
+{% set recipe = {
+    title: "",
+    img: ".jpg",
+    preptime: "20 mins",
+    preptimeschema: "20M",
+    prepadd: "",
+    cooktime: "15 mins",
+    cooktimeschema: "15M",
+    cookadd: "",
+    difficulty: "Easy",
+    serves: "4",
+    ctaurl: "",
+    today : "01/09/2018",
+    description: "",
+    keywords: "",
+    cuisine : "Australian"
+} %}
+
+
+{% set category = {  
+    name: 'Quick and Easy',
+    uri: '/inspireandcreate/quickandeasy',
+
+    sweet: {
+        name: 'Something Sweet',
+        uri: '/inspireandcreate/somethingsweet'
+    }, 
+
+    quick: {
+        name: 'Quick and Easy',
+        uri: '/inspireandcreate/quickandeasy'
+    },
+    tasty: {
+        name: 'Tasty Mains',
+        uri: '/inspireandcreate/tastymains'
+    }
+} %}
+
+{% block metaproductscheme %}{% endblock %}
+
+{% block ingridients %}
+
+<li itemprop="recipeIngredient"> </li>
+
+
+{% endblock %}
+
+{% block ingridientsAdditional %}{% endblock %}
+
+{% block method %}
+
+
+
+{% endblock %}
+
+
+{% block aftermethod %}
+<!--<p><strong>SERVE WITH</strong>  </p>-->
+
+
+{% endblock %}
+
+{% set nutri = false  %}
+{% block nutriblock %}
+
+<span><strong>Energy</strong> 2681kJ/641 </span> 
+<span><strong>Cals</strong> (31%) </span> 
+<span><strong>Protein</strong> 46g (92%)</span> 
+<span><strong>Fat</strong> 34g (49%)</span> 
+<span><strong>Sat Fat</strong> 10g (42%) </span> 
+<span><strong>Sodium</strong> 1430mg (72%)</span> 
+<span><strong>Carb</strong> 39g (13%) </span> 
+<span><strong>Sugar</strong> 8g (9%) </span> 
+<span><strong>Dietary Fibre</strong>7g (23%)</span> 
+
+{% endblock %}

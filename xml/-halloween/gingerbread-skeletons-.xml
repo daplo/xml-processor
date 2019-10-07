@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipe recipeID="1474606680990" dossierID="57669" Year="2016" Month="October" Publication="Coles Magazine">
+    <title>Gingerbread skeletons</title>
+    <serving yield="about" yieldextra="40  " preptimeqty="30" preptimeunits="mins"
+        preptimeextra="(+ cooling, 30 mins resting &amp; 30 mins setting time)" cooktimeqty="20" cooktimeunits="mins">
+        Makes about 40 Prep 30 mins (+ cooling, 30 mins resting &amp; 30 mins setting time) Cooking 20 mins </serving>
+    <ingredients>
+        <inggroup inggroupsort="1">
+            <ings>
+                <ing ingsort="1" qty="150" unit="g" qtyalt="" unitalt="" fooditem="butter" fooditemalt=""
+                    direction="chopped">150g butter, chopped</ing>
+                <ing ingsort="2" qty="½" unit="cup" qtyalt="110" unitalt="g" fooditem="brown sugar" fooditemalt=""
+                    direction="">½ cup (110g) brown sugar</ing>
+                <ing ingsort="3" qty="½" unit="cup" qtyalt="125" unitalt="ml" fooditem="golden syrup" fooditemalt=""
+                    direction="">½ cup (125ml) golden syrup</ing>
+                <ing ingsort="4" qty="1" unit="" qtyalt="" unitalt="" fooditem="Coles Brand Australian Free Range Egg"
+                    fooditemalt="" direction="">1 Coles Brand Australian Free Range Egg</ing>
+                <ing ingsort="5" qty="3" unit="cup" qtyalt="450" unitalt="g" fooditem="plain flour" fooditemalt=""
+                    direction="">3 cups (450g) plain flour</ing>
+                <ing ingsort="6" qty="1" unit="tbs" qtyalt="" unitalt="" fooditem="ground ginger" fooditemalt=""
+                    direction="">1 tbs ground ginger</ing>
+                <ing ingsort="7" qty="1½" unit="tsp" qtyalt="" unitalt="" fooditem="mixed spice" fooditemalt=""
+                    direction="">1½ tsp mixed spice</ing>
+                <ing ingsort="8" qty="1" unit="330g" qtyalt="" unitalt="" fooditem="pkt royal icing" fooditemalt=""
+                    direction="">330g pkt royal icing</ing>
+                <ing ingsort="9" qty="" unit="" qtyalt="" unitalt="" fooditem="Red and yellow liquid food colouring"
+                    fooditemalt="" direction="">Red and yellow liquid food colouring</ing>
+                <ing ingsort="10" qty="" unit="" qtyalt="" unitalt="" fooditem="Dark chocolate writing icing"
+                    fooditemalt="" direction="to decorate">Dark chocolate writing icing, to decorate</ing>
+            </ings>
+        </inggroup>
+    </ingredients>
+    <preparation>
+        <prepstepgroup prepstepgroupsort="1">
+            <prepsteps>
+                <prepstep prepstepsort="1">Preheat oven to 180°C. Line 2 baking trays with baking paper.</prepstep>
+                <prepstep prepstepsort="2">Combine the butter, sugar and golden syrup in a saucepan over medium heat.
+                    Cook, stirring, for 3-5 mins or until the butter melts and the sugar dissolves. Set aside for 15
+                    mins to cool.</prepstep>
+                <prepstep prepstepsort="3">Transfer the butter mixture to a bowl. Add egg and whisk to combine. Stir in
+                    flour, ginger and mixed spice. Turn onto a lightly floured surface and knead until smooth. Cover
+                    with plastic wrap. Place in the fridge for 30 mins to rest.</prepstep>
+                <prepstep prepstepsort="4">Divide the dough into quarters. Roll each portion out on a lightly floured
+                    surface to a 3mm-thick disc and use a 10cm gingerbread man cutter to cut out shapes. Place on
+                    prepared trays. Bake, swapping trays halfway through cooking, for 12-15 mins or until light golden.
+                    Cool on trays.</prepstep>
+                <prepstep prepstepsort="5">Prepare icing following packet directions. Reserve half the icing. Tint
+                    remaining icing orange using red and yellow food colouring. Spread evenly over half the biscuits.
+                    Set aside for 30 mins to set. Place the reserved icing in a piping bag fitted with a 2mm nozzle.
+                    Pipe skeleton shapes over the plain and iced biscuits. Set aside to set. Decorate the faces with
+                    writing icing. </prepstep>
+            </prepsteps>
+        </prepstepgroup>
+    </preparation>
+    <nutrition per="biscuit" kJ="486" calories="116" energy_pct="6" protein_g="2" protein_pct="4" fat_g="3"
+        saturatedfat="1" fat_pct="4" saturatedfat_pct="4" carb_g="21" sugars_g="13" carb_pct="7" sugars_pct="14"
+        dietaryfibre_g="1" dietaryfibre_pct="3" sodium_mg="27" sodium_pct="1">PER BISCUIT Energy 486kJ116 Cals 6%
+        Protein 2g 4% Fat (Sat Fat) 3g (1g) 4%(4%) Carb (Sugars) 21g (13g) 7% (14%) Dietary Fibre 1g 3% Sodium 27mg 1%
+    </nutrition>
+</recipe>

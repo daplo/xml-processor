@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipe recipeID="1517265999127" dossierID="143412" Publication="Catalogue" Year="2018" Month="February" parentRecipeID="" online_title="Banana, Oat and Seed Cookies">
+    <title>Banana, oat &amp; seed cookies</title>
+    <serving yieldextra="" yield="about 15" preptimeextra="+ cooling time" preptimeunits="mins" preptimeqty="10" cooktimeextra="" cooktimeunits="mins" cooktimeqty="35">Makes about 15  Prep 10 mins (+ cooling time) Cooking 35 mins</serving>
+    <ingredients>
+        <inggroup inggroupsort="1">
+            <ings>
+                <ing ingsort="1" fooditem="mashed banana" direction="" unit="cups" qty="¾">¾ cups mashed banana</ing>
+                <ing ingsort="2" fooditem="Coles Sweetened Dried Cranberries" direction="" unit="cup" qty="½" fooditemalt="" unitalt="g" qtyalt="65">½ cup (65g) Coles Sweetened Dried Cranberries</ing>
+                <ing ingsort="3" fooditem="rolled oats" direction="" unit="cups" qty="2" fooditemalt="" unitalt="g" qtyalt="45">2 cups (45g) rolled oats</ing>
+                <ing ingsort="4" fooditem="coconut" direction="shredded" unit="cup" qty="½" fooditemalt="" unitalt="g" qtyalt="40">½ cup (40g) shredded coconut</ing>
+                <ing ingsort="5" fooditem="mixed spice" direction="" unit="tsp" qty="1">1 tsp mixed spice</ing>
+                <ing ingsort="6" fooditem="Coles Finest Maple Syrup" direction="" unit="cup" qty="¼" fooditemalt="" unitalt="ml" qtyalt="60">¼ cup (60ml) Coles Finest Maple Syrup</ing>
+                <ing ingsort="7" fooditem="olive oil" direction="" unit="cup" qty="¼" fooditemalt="" unitalt="ml" qtyalt="60">¼ cup (60ml) olive oil</ing>
+                <ing ingsort="8" fooditem="pepitas " direction="" unit="tbsp" qty="2" fooditemalt="pumpkin seed kernels" unitalt="" qtyalt="">2 tbsp pepitas (pumpkin seed kernels)</ing>
+            </ings>
+        </inggroup>
+    </ingredients>
+    <preparation>
+        <prepstepgroup prepstepgroupsort="1">
+            <prepsteps>
+                <prepstep prepstepsort="1">Preheat oven to 140°C. Line 2 baking trays with baking paper.</prepstep>
+                <prepstep prepstepsort="2">Place the banana, cranberries, oats, coconut, mixed spice, maple syrup and oil in a medium bowl. Stir until well combined. </prepstep>
+                <prepstep prepstepsort="3">Drop 2-tablespoon portions of mixture onto the prepared trays. Use damp hands to gently flatten. Sprinkle with pepitas. Bake for 30-35 mins or until firm to the touch and light golden. Set aside on trays to cool. Store in an airtight container in the fridge for up to 5 days.</prepstep>
+            </prepsteps>
+        </prepstepgroup>
+    </preparation>
+</recipe>

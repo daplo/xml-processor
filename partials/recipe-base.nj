@@ -1,0 +1,223 @@
+{% include "partials/header.html" %}
+
+<body>
+
+    <section class="row wysiwyg hagFooterwrapper">
+        <div class="innerContainer">
+
+            <!--START OF THE TEMPLATE-->
+            <link rel="stylesheet" type="text/css"
+                href="/~/media/images/colesa/corporate responsibility/201804-rework/corp-resp.css">
+            <link rel="stylesheet" type="text/css"
+                href="/~/media/images/colesa/christmas2018/inspirecreate/inspireandcreate.css">
+
+
+
+            <style>
+                .page-banner .hero {
+                    display: none;
+                }
+
+                .hero>.row>.large-12.small-12.columns {
+                    text-align: center;
+                    margin-top: 65px;
+                }
+
+                .aftermethod {
+                    line-height: 1.4rem;
+                    margin: 2rem 0;
+                }
+
+                .aftermethod span {
+                    margin-right: 1rem;
+                    display: inline-block;
+                }
+
+                .ingredients h5 {
+                    margin-top: 2rem;
+                }
+
+                .nutrition {
+                    margin-top: 2rem;
+                }
+
+
+                h1.heading.large-7 {
+                    color: #000 !important;
+
+                }
+
+                @media only screen and (min-width: 768px) {
+                    ul.breadcrumbs {
+                        display: none !important;
+                    }
+                }
+
+                @media only screen and (max-width: 767px) {
+                    .hero>.row>.large-12.small-12.columns {
+                        margin-top: 15px !important;
+                    }
+                }
+
+
+                @media only screen and (max-width: 767px) {
+                    .page-banner .hero {
+                        background: #fff;
+                        background-image: none;
+                        display: block;
+                    }
+
+                    h1.heading.large-7 {
+
+                        margin-bottom: 0;
+                    }
+
+                    .page-banner ul.breadcrumbs li {
+                        box-shadow: 3px 3px 6px rgba(0, 0, 0, .2);
+                        padding: 3px 8px;
+                    }
+
+                    section.in-this-section {
+                        background: #fff;
+                    }
+
+                }
+            </style>
+
+
+
+            <div class="small-12 large-12 columns recipe-wrapper" itemscope itemtype="http://schema.org/Recipe">
+                <div class="small-12 large-12 columns ic-breadcrumb">
+                    <p>
+                        <a href="/">Home</a> &nbsp;&gt;&nbsp;
+                        <a href="/inspireandcreate">Inspire &amp; Create</a> &nbsp;&gt;&nbsp;
+                        <a href="{{ category.uri }}" itemprop="recipeCategory">{{ category.name }}</a> &nbsp;&gt;&nbsp;
+                        {{ recipe.title }}
+                    </p>
+                </div>
+
+                <hr class="ic-breadcrumb">
+                <div class="recipetitle">
+                    <h4 style="letter-spacing: 1px; color: #de1f26;">RECIPE</h4>
+                    <h1 class="heading large-7 recipe-title" itemprop="name">{{ recipe.title }}</h1>
+                </div>
+
+
+                <meta itemprop="author" content="Coles.com.au" />
+                <meta itemprop="datePublished" content="{{ recipe.today }}" />
+                <meta itemprop="recipeYield" content="{{ recipe.serves }} serves" />
+                <meta itemprop="keywords" content="{{ recipe.keywords }}" />
+                <meta itemprop="recipeCuisine" content="{{ recipe.cuisine }}" />
+                <meta itemprop="prepTime" content="PT{{recipe.preptimeschema}}">
+                <meta itemprop="cookTime" content="PT{{recipe.cooktimeschema}}">
+                {% if recipe.description %}
+                <meta itemprop="description" content="{{recipe.description}}" />
+                {% else %}
+                <meta itemprop="description" content="{{recipe.title}}" />
+                {% endif %}
+                {% block metaproductscheme %}{% endblock %}
+
+
+                <div class="topflex">
+                    <div class="columns recipeinfocont large-3 small-12">
+
+                        <!--COOKING START -->
+                        <div class="recipeinfo">
+                            <div class="infobox">
+                                <h4>Prep</h4>
+
+                                <p>{{ recipe.preptime }}
+
+                                    {% if recipe.prepadd %}
+                                    <span>({{ recipe.prepadd }})</span>
+                                    {% endif %}
+                                </p>
+
+                            </div>
+
+                            <hr class="deskonly">
+                            <div class="infobox">
+                                <h4>Cooking</h4>
+
+                                <p> {{ recipe.cooktime }}
+                                    {% if recipe.cookadd %}
+                                    <span>({{ recipe.cookadd }})</span>
+                                    {% endif %}
+                                </p>
+                            </div>
+                            <hr>
+                            <div class="infobox">
+                                <h4>Difficulty</h4>
+                                <p>{{ recipe.difficulty }}</p>
+                            </div>
+                            <hr class="deskonly">
+                            <div class="infobox">
+                                <h4>Serves</h4>
+                                <p>{{ recipe.serves }}</p>
+                            </div>
+                        </div>
+
+                        <!-- COOKING END -->
+                    </div>
+
+                    <!-- MAIN IMAGE-->
+                    <div class="columns recipeimg large-9 small-12">
+                        <img alt="{{ recipe.title }}" itemprop="image"
+                            src="https://www.coles.com.au/~/media/images/colesa/inspireandcreate/recipes/spring2019/{{recipe.img}}">
+                    </div>
+                </div>
+
+                <div class="small-12 large-12 columns recipebody">
+                    <!-- INGREDIENTS-->
+                    <div class="ingredients">
+                        <h3>Ingredients</h3>
+                        <ul>
+                            {% block ingridients %}
+                            {% endblock %}
+                        </ul>
+                        {% block ingridientsAdditional %}
+                        {% endblock %}
+                    </div>
+                    <!-- END OF INGREDIENTS-->
+                    <!-- METHOD START -->
+                    <div class="method" itemprop="recipeInstructions">
+                        <h3>Method</h3>
+                        <ol>
+                            {% block method %}
+                            {% endblock %}
+                        </ol>
+                        <div class="aftermethod">
+                            {% block aftermethod %}{% endblock %}
+                            {% if nutri %}
+                            <div class="nutrition">
+                                <p><strong>NUTRITION INFORMATION
+
+                                        {% if perserve %}
+                                        (PER {{ perserve }})
+                                        {% else %}
+                                        (PER SERVE)
+                                        {% endif %}
+
+                                    </strong><br />
+                                    {% block nutriblock %}
+                                    {% endblock %}
+                                </p>
+                            </div>
+
+                            {% endif %}
+
+
+
+                        </div>
+                        {% if recipe.ctaurl %}
+                        <!--SHOP RECIPE BUTTON CTA -->
+                        <a class="btn-t button-secondary" title="Shop recipe" target="_blank"
+                            href="{{recipe.ctaurl}}">Shop recipe</a>
+                        {% endif %}
+                    </div>
+                    <!--METHOD END-->
+                </div>
+            </div>
+            <!-- END OF TEMPLATE -->
+
+            {% include "partials/footer.html" %}

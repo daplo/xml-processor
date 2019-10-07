@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipe recipeID="1569546010638" dossierID="269992" Publication="Coles Magazine" Year="2019" Month="October"
+    parentRecipeID="" online_title="Spider Pizzas">
+    <title>Spider pizzas</title>
+    <serving yieldextra="" yield="8" preptimeextra="" preptimeunits="mins" preptimeqty="10" cooktimeextra=""
+        cooktimeunits="mins" cooktimeqty="15">Serves 8 Prep 10 mins Cooking 15 mins</serving>
+    <ingredients>
+        <inggroup inggroupsort="1">
+            <ings>
+                <ing ingsort="1" fooditem="large pizza bases" direction="" unit="" qty="2">2 large pizza bases</ing>
+                <ing ingsort="2" fooditem="pizza sauce" direction="" unit="cup" qty="⅓" fooditemalt="" unitalt="g"
+                    qtyalt="95">⅓ cup (95g) pizza sauce</ing>
+                <ing ingsort="3" fooditem="pizza cheese" direction="shredded" unit="cup" qty="1" fooditemalt=""
+                    unitalt="g" qtyalt="100">1 cup (100g) shredded pizza cheese</ing>
+                <ing ingsort="4" fooditem="pepperoni " direction="" unit="slices" qty="4">4 slices pepperoni </ing>
+                <ing ingsort="5" fooditem="cherry tomatoes" direction="halved" unit="" qty="3">3 cherry tomatoes, halved
+                </ing>
+                <ing ingsort="6" fooditem="chargrilled pepper  halved" direction="thinly sliced" unit="" qty="1"
+                    fooditemalt="capsicum" unitalt="" qtyalt="">1 chargrilled pepper (capsicum), halved, thinly sliced
+                </ing>
+                <ing ingsort="7" fooditem="pitted black olives" direction="halved" unit="" qty="8">8 pitted black
+                    olives, halved</ing>
+                <ing ingsort="8" fooditem="pitted green olives" direction="halved" unit="" qty="4">4 pitted green
+                    olives, halved</ing>
+            </ings>
+        </inggroup>
+    </ingredients>
+    <preparation>
+        <prepstepgroup prepstepgroupsort="1">
+            <prepsteps>
+                <prepstep prepstepsort="1">Preheat oven to 220°C. Line 2 baking trays with baking paper. </prepstep>
+                <prepstep prepstepsort="2">Place the pizza bases on the lined trays. Spread the bases evenly with sauce
+                    and sprinkle with cheese. Divide the pepperoni and tomato evenly among the pizzas. Arrange capsicum
+                    slices around the pepperoni and tomato to make spider legs. </prepstep>
+                <prepstep prepstepsort="3">Thinly slice half the combined olives. Place remaining olive halves on the
+                    pizzas. Arrange the sliced olive around the olive halves to make spider legs. </prepstep>
+                <prepstep prepstepsort="4">Bake for 10-12 mins or until the cheese melts and is golden. Cut the pizzas
+                    into wedges to serve.</prepstep>
+            </prepsteps>
+        </prepstepgroup>
+    </preparation>
+    
+    <nutrition per="serve" kJ="1066" calories="255" energy_pct="12" protein_g="11"
+        protein_pct="(22" fat_g="10" fat_pct="14" saturatedfat="4" saturatedfat_pct="17" sodium_mg="591" sodium_pct="30"
+        carb_g="28" carb_pct="9" sugars_g="5" sugars_pct="6" dietaryfibre_g="3" dietaryfibre_pct="10"></nutrition>
+</recipe>

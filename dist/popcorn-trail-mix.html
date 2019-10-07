@@ -1,0 +1,63 @@
+{% set recipe = {
+                title: "Popcorn Trail mix",
+                img: "popcorn-trail-mix.jpg",
+                preptime: "5 mins",
+                preptimeschema: "5M",
+                prepadd: "",
+                cooktime: " ",
+                cooktimeschema: "M",
+                cookadd: "",
+                difficulty: "Easy",
+                serves: "about 7 cups",
+                ctaurl: "",
+                today : "01/09/2019",
+                description: "",
+                keywords: "",
+                cuisine : "Australian"
+            } %}
+
+            {% set category = {
+                    name: 'Lunchbox Ideas',
+                    uri: '/inspireandcreate/lunchboxideas'
+            } %}
+
+            
+        {% block ingridients %}
+        
+        <li itemprop="recipeIngredient">3 x 23g pkts Arnott’s Jatz Original Minis biscuits*</li> 
+<li itemprop="recipeIngredient">1 cup (80g) banana chips </li> 
+<li itemprop="recipeIngredient">1 cup (50g) pretzels</li> 
+<li itemprop="recipeIngredient">1 cup (45g) mini marshmallows</li> 
+<li itemprop="recipeIngredient">1 cup (45g) Uncle Tobys Cheerios</li> 
+<li itemprop="recipeIngredient">1 cup (15g) sweet and saltypopcorn</li> 
+<li itemprop="recipeIngredient">½ cup (65g) dried cranberries</li> 
+<li itemprop="recipeIngredient">½ cup (80g) sultanas</li> 
+
+        {% endblock %}
+        {% block method %}
+        
+        <ol>
+   <li>Combine the biscuits, banana chips, pretzels, marshmallows, Cheerios, popcorn, cranberries and sultanas in a large bowl. Store in an airtight container for up to 2 weeks.</li> 
+</ol>
+
+
+            {% endblock %}
+
+                 {% set nutri = false  %}
+                            {% block nutriblock %}
+            
+     
+            <div class="nutrition">
+                <p><strong>NUTRITION INFORMATION (per ½ cup) </strong><br>                              
+                    <strong><strong>Energy</strong> 487kJ</span>
+                    <span><strong>Cals</strong> 117 </span>
+                    <span><strong>Protein </strong> 2g</span>
+                    <span><strong>Fat</strong> 2g</span>
+                    <span><strong>Sat Fat</strong> 1g </span>
+                    <span><strong>Sodium</strong> 91mg</span>
+                    <span><strong>Carb</strong> 22g</span>
+                    <span><strong>Sugar</strong> 10g</span>
+                    <span><strong>Dietary Fibre</strong> 2g</span>
+            </p> </div>
+            
+   {% endblock %}

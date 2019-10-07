@@ -1,0 +1,68 @@
+{% set recipe = {
+                title: "Ham & 3-cheese muffins",
+                img: "ham-and-3-cheese-muffins.jpg",
+                preptime: "10 mins",
+                preptimeschema: "10M",
+                prepadd: "+ cooling time",
+                cooktime: "25 mins",
+                cooktimeschema: "25M",
+                cookadd: "",
+                difficulty: "Easy",
+                serves: "12",
+                ctaurl: "",
+                today : "01/09/2019",
+                description: "",
+                keywords: "",
+                cuisine : "Australian"
+            } %}
+
+            {% set category = {
+                    name: 'Lunchbox Ideas',
+                    uri: '/inspireandcreate/lunchboxideas'
+            } %}
+
+            
+        {% block ingridients %}
+        
+        <li itemprop="recipeIngredient">2 cups (300g) self-raising flour</li> 
+<li itemprop="recipeIngredient">½ tsp ground paprika</li> 
+<li itemprop="recipeIngredient">80g butter, softened</li> 
+<li itemprop="recipeIngredient">6 slices champagne ham, chopped</li> 
+<li itemprop="recipeIngredient">1 spring onion, thinly sliced</li> 
+<li itemprop="recipeIngredient">1 tbs finely chopped chives</li> 
+<li itemprop="recipeIngredient">1 cup (120g) shredded tasty cheddar</li> 
+<li itemprop="recipeIngredient">½ cup (40g) finely grated parmesan</li> 
+<li itemprop="recipeIngredient">100g fetta, crumbled</li> 
+<li itemprop="recipeIngredient">1 Coles Australian Free Range Egg</li> 
+<li itemprop="recipeIngredient">1 cup (250ml) milk</li> 
+
+        {% endblock %}
+        {% block method %}
+        
+        <ol>
+   <li>Preheat oven to 200°C. Line a 12-hole, ⅓-cup (80ml) muffin pan with paper cases. Combine the flour and paprika in a large bowl. Use your fingertips to rub the butter into the flour mixture until the mixture resembles fine breadcrumbs. Stir in the ham, spring onion, chive, cheddar, parmesan and fetta.</li> 
+   <li>Whisk the egg and milk in a jug. Make a well in the centre of the flour mixture. Pour in the egg mixture and stir until just combined. Spoon the mixture evenly into the paper cases. </li> 
+   <li>Bake for 20-25 mins or until a skewer inserted in the centre comes out clean. Turn onto a wire rack to cool completely.</li> 
+</ol>
+
+
+            {% endblock %}
+
+                 {% set nutri = false  %}
+                            {% block nutriblock %}
+            
+     
+            <div class="nutrition">
+                <p><strong>NUTRITION INFORMATION (per muffin) </strong><br>                              
+                    <strong><strong>Energy</strong> 1037kJ</span>
+                    <span><strong>Cals</strong> 248 </span>
+                    <span><strong>Protein </strong> 11g</span>
+                    <span><strong>Fat</strong> 13g</span>
+                    <span><strong>Sat Fat</strong> 8g </span>
+                    <span><strong>Sodium</strong> 557mg</span>
+                    <span><strong>Carb</strong> 20g</span>
+                    <span><strong>Sugar</strong> 2g</span>
+                    <span><strong>Dietary Fibre</strong> 1g</span>
+            </p> </div>
+            
+   {% endblock %}
